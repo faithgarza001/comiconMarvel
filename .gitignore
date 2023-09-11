@@ -299,3 +299,5 @@ dist
 # Directories potentially created on remote AFP share
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,osx,node,intellij
+/connection
+connection.php
